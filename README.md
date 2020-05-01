@@ -1,2 +1,2 @@
-# sasha-monsta.github.com
+# sasha-monsta.github.io
 introduction to web design sandlot
